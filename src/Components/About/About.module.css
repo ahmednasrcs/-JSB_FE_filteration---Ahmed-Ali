@@ -1,0 +1,32 @@
+.imgbac{
+
+    background-image: url('/src/Components/Images/2.jpg');
+    height: 100vh;
+    width: 75%;
+    background-position: center;
+    background-size: cover;
+    z-index: 20;
+}
+
+    .left {
+        width: 50%;
+        padding: 20px;
+        color:white;
+        background-color: #6D91EEB2;
+        z-index: 998;
+        opacity: 0.5
+      }
+
+      .right {
+        width: 50%;
+        padding: 20px;
+        color: white;
+        z-index: 998;
+        background-color: #6D91EEB2;
+
+
+      }
+      .img{
+        z-index: 999;
+        opacity: 1;
+      }
